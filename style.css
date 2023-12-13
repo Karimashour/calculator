@@ -105,7 +105,7 @@ a {
 }
 @media (max-width:350px) {
   .screen{
-    width: 280px;
+    width: 250px;
     padding: 10px;
   }
   .calc-button{
